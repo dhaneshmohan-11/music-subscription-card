@@ -1,4 +1,4 @@
-# music-card
+# music subscription card
 # Music Subscription Card
 
 Welcome to the Music Subscription Card project! This project is a simple HTML and CSS implementation of a music subscription card.
